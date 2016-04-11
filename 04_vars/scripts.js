@@ -7,4 +7,5 @@ content += "<h1>" + heading this + "<h1>";
 
 content += "<p> the first text area.</p>";
 
-document.write(content);
+
+console.log(content)
