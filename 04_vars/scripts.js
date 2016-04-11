@@ -1,6 +1,9 @@
+var heading= "";
 var content= "";
 
-content += "<h1>this heading</h1>";
+heading += "this heading<";
+
+content += "<h1>" + heading this + "<h1>";
 
 content += "<p> the first text area.</p>";
 
