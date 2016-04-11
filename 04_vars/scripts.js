@@ -1,7 +1,7 @@
 var heading= "";
 var content= "";
 
-heading += "this heading<";
+heading = "this heading<";
 
 content += "<h1>" + heading this + "<h1>";
 
